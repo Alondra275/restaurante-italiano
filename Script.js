@@ -12,7 +12,7 @@ const menuItems = [
         name: "Arancini", 
         category: "entradas", 
         price: "$95", 
-        image: "/img/Arancini.jpg",
+        image: "/Arancini.jpg",
         description: "Bolitas de arroz rellenas de ragú, empanizadas y fritas."
     },
     { 
@@ -20,7 +20,7 @@ const menuItems = [
         name: "Asparagus Involtini", 
         category: "entradas", 
         price: "$55", 
-        image: "/img/Asparagus Involtini.jpg",
+        image: "/Asparagus Involtini.jpg",
         description: "Espárragos envueltos en prosciutto o queso."
     },
     { 
@@ -28,7 +28,7 @@ const menuItems = [
         name: "Bruschetta", 
         category: "entradas", 
         price: "$45", 
-        image: "/img/Bruschetta.jpeg",
+        image: "/Bruschetta.jpeg",
         description: "Pan tostado con tomate, ajo y aceite de oliva."
     },
     { 
@@ -36,7 +36,7 @@ const menuItems = [
         name: "Caponata", 
         category: "entradas", 
         price: "$75", 
-        image: "/img/Caponata.jpg",
+        image: "/Caponata.jpg",
         description: "Guiso siciliano de berenjena con alcaparras y aceitunas."
     },
     { 
@@ -44,7 +44,7 @@ const menuItems = [
         name: "Ensalada Caprese", 
         category: "entradas", 
         price: "$95", 
-        image: "/img/Caprese Salad.jpg",
+        image: "/Caprese Salad.jpg",
         description: "Ensalada de tomate, mozzarella y albahaca fresca."
     },
     { 
@@ -52,7 +52,7 @@ const menuItems = [
         name: "Carpaccio", 
         category: "entradas", 
         price: "$195", 
-        image: "/img/Carpaccio.jpg",
+        image: "/Carpaccio.jpg",
         description: "Finas láminas de carne o pescado crudo con aderezo."
     },
     { 
@@ -60,7 +60,7 @@ const menuItems = [
         name: "Coccoli con Stracchino y Prosciutto", 
         category: "entradas", 
         price: "$90", 
-        image: "/img/Coccoli con Stracchino y Prosciutto.jpg",
+        image: "/Coccoli con Stracchino y Prosciutto.jpg",
         description: "Panecillos fritos con queso cremoso y jamón."
     },
     { 
@@ -68,7 +68,7 @@ const menuItems = [
         name: "Carnes curadas", 
         category: "entradas", 
         price: "$255", 
-        image: "/img/Cured meats.jpg",
+        image: "/Cured meats.jpg",
         description: "Tabla de embutidos y fiambres italianos."
     },
     { 
@@ -76,7 +76,7 @@ const menuItems = [
         name: "Fave e cicoria", 
         category: "entradas", 
         price: "$55", 
-        image: "/img/Fave e cicoria.png",
+        image: "/Fave e cicoria.png",
         description: "Puré de habas con achicoria."
     },
     { 
@@ -84,7 +84,7 @@ const menuItems = [
         name: "Farinata", 
         category: "entradas", 
         price: "$55", 
-        image: "/img/Farinata.jpg",
+        image: "/Farinata.jpg",
         description: "Tarta salada hecha de harina de garbanzo."
     },
     { 
@@ -92,7 +92,7 @@ const menuItems = [
         name: "Fettunta", 
         category: "entradas", 
         price: "$25", 
-        image: "/img/Fettunta.jpg",
+        image: "/Fettunta.jpg",
         description: "Pan toscano tostado con aceite de oliva."
     },
     { 
@@ -100,7 +100,7 @@ const menuItems = [
         name: "Focaccia", 
         category: "entradas", 
         price: "$25", 
-        image: "/img/Focaccia.jpg",
+        image: "/Focaccia.jpg",
         description: "Pan suave al horno con hierbas y aceite de oliva."
     },
     { 
@@ -108,7 +108,7 @@ const menuItems = [
         name: "Grissini", 
         category: "entradas", 
         price: "$45", 
-        image: "/img/Grissini.WEBP",
+        image: "/Grissini.WEBP",
         description: "Palitos de pan crujientes acompañados de un aderezo."
     },
     { 
@@ -116,7 +116,7 @@ const menuItems = [
         name: "Pane ca'meusa", 
         category: "entradas", 
         price: "$65", 
-        image: "/img/Pane ca´meusa.WEBP",
+        image: "/Pane ca´meusa.WEBP",
         description: "Bocadillo siciliano de pan con bazo de res."
     },
     { 
@@ -124,7 +124,7 @@ const menuItems = [
         name: "Panzanella", 
         category: "entradas", 
         price: "$75", 
-        image: "/img/Panzanella.jpg",
+        image: "/Panzanella.jpg",
         description: "Ensalada de pan duro, tomate, pepino, cebolla morada, y aguacate."
     },
     { 
@@ -132,7 +132,7 @@ const menuItems = [
         name: "Pappa al pomodoro", 
         category: "entradas", 
         price: "$55", 
-        image: "/img/Pappa al pomodoro.jpg",
+        image: "/Pappa al pomodoro.jpg",
         description: "Sopa espesa de pan con tomate y ajo."
     },
     { 
@@ -140,7 +140,7 @@ const menuItems = [
         name: "Tabla de Quesos", 
         category: "entradas", 
         price: "$95", 
-        image: "/img/Quesos.jpg",
+        image: "/Quesos.jpg",
         description: "Selección de quesos italianos tradicionales."
     },
     { 
@@ -148,7 +148,7 @@ const menuItems = [
         name: "Rosa Di Gorizia", 
         category: "entradas", 
         price: "$85", 
-        image: "/img/Rosa Di Gorizia.jpg",
+        image: "/Rosa Di Gorizia.jpg",
         description: "Variedad de radicchio con sabor amargo y delicado acompañada de huevos hervidos y aderezo de chipotle."
     },
     { 
@@ -156,7 +156,7 @@ const menuItems = [
         name: "Bistecca alla Fiorentina", 
         category: "plato-fuerte", 
         price: "$235", 
-        image: "/img/Bistecca alla Fiorentina.jpg",
+        image: "/Bistecca alla Fiorentina.jpg",
         description: "Chuletón toscano a la parrilla."
     },
     { 
@@ -164,7 +164,7 @@ const menuItems = [
         name: "Spaghetti frutti di mare", 
         category: "plato-fuerte", 
         price: "$155", 
-        image: "/img/camarones.jpg",
+        image: "/camarones.jpg",
         description: "spaghetti con camarones estilo carbonara con ajo y aceite.."
     },
     { 
@@ -172,7 +172,7 @@ const menuItems = [
         name: "Cacio e pepe", 
         category: "plato-fuerte", 
         price: "$130", 
-        image: "/img/Cacio e pepe.jpg",
+        image: "/Cacio e pepe.jpg",
         description: "Pasta con queso pecorino y pimienta negra."
     },
     { 
@@ -180,7 +180,7 @@ const menuItems = [
         name: "Lasaña tradicional", 
         category: "plato-fuerte", 
         price: "$255", 
-        image: "/img/Lasaña.jpg",
+        image: "/Lasaña.jpg",
         description: "Capas de pasta, carne, bechamel y salsa de tomate."
     },
     { 
@@ -188,7 +188,7 @@ const menuItems = [
         name: "Orecchiette", 
         category: "plato-fuerte", 
         price: "$230", 
-        image: "/img/Orecchiette.jpg",
+        image: "/Orecchiette.jpg",
         description: "Pasta en forma de “orejitas”, típica de Puglia."
     },
     { 
@@ -196,7 +196,7 @@ const menuItems = [
         name: "Osso buco", 
         category: "plato-fuerte", 
         price: "$325", 
-        image: "/img/Osso buco.jpeg",
+        image: "/Osso buco.jpeg",
         description: "Jarrete de ternera estofado con verduras y vino."
     },
     { 
@@ -204,7 +204,7 @@ const menuItems = [
         name: "Polenta", 
         category: "plato-fuerte", 
         price: "$55", 
-        image: "/img/Polenta.jpg",
+        image: "/Polenta.jpg",
         description: "Guiso cremoso de harina de maíz."
     },
     { 
@@ -212,7 +212,7 @@ const menuItems = [
         name: "Ragu", 
         category: "plato-fuerte", 
         price: "$95", 
-        image: "/img/Ragu.jpg",
+        image: "/Ragu.jpg",
         description: "Salsa espesa de carne cocinada a fuego lento."
     },
     { 
@@ -220,7 +220,7 @@ const menuItems = [
         name: "Risotto", 
         category: "plato-fuerte", 
         price: "$68", 
-        image: "/img/Rissotto.webp",
+        image: "/Rissotto.webp",
         description: "Arroz cremoso cocinado con caldo y queso."
     },
     { 
@@ -228,7 +228,7 @@ const menuItems = [
         name: "Roman Porchetta", 
         category: "plato-fuerte", 
         price: "$345", 
-        image: "/img/Roman Porchetta.jpg",
+        image: "/Roman Porchetta.jpg",
         description: "Cerdo asado con hierbas, jugoso y crujiente."
     },
     { 
@@ -236,7 +236,7 @@ const menuItems = [
         name: "Spaghetti alla Carbonara", 
         category: "plato-fuerte", 
         price: "$130", 
-        image: "/img/Spaghetti alla Carbonara.jpg",
+        image: "/Spaghetti alla Carbonara.jpg",
         description: "Pasta con huevo, pecorino y guanciale."
     },
     { 
@@ -244,7 +244,7 @@ const menuItems = [
         name: "Spaghetti Polpette", 
         category: "plato-fuerte", 
         price: "$185", 
-        image: "/img/Spaghetti polpette.jpg",
+        image: "/Spaghetti polpette.jpg",
         description: "Spaghetti con albóndigas en salsa de tomate."
     },
     { 
@@ -252,7 +252,7 @@ const menuItems = [
         name: "Trofie", 
         category: "plato-fuerte", 
         price: "$135", 
-        image: "/img/Trofie.webp",
+        image: "/Trofie.webp",
         description: "Pasta corta en espiral, ideal con pesto genovés."
     },
     { 
@@ -260,7 +260,7 @@ const menuItems = [
         name: "Pizza Margarita", 
         category: "plato-fuerte", 
         price: "$175", 
-        image: "/img/Margarita.jpg",
+        image: "/Margarita.jpg",
         description: "La pizza tradicional de Italia."
     },
     { 
@@ -268,7 +268,7 @@ const menuItems = [
         name: "Bonet", 
         category: "postres", 
         price: "$155", 
-        image: "/img/Bonet.jpg",
+        image: "/Bonet.jpg",
         description: "Flan piamontés de cacao y amaretti."
     },
     { 
@@ -276,7 +276,7 @@ const menuItems = [
         name: "Cannoli", 
         category: "postres", 
         price: "$75", 
-        image: "/img/Cannoli.webp",
+        image: "/Cannoli.webp",
         description: "Tubitos de masa frita rellenos de ricotta dulce."
     },
     { 
@@ -284,7 +284,7 @@ const menuItems = [
         name: "Cornetto", 
         category: "postres", 
         price: "$45", 
-        image: "/img/Cornetto.webp",
+        image: "/Cornetto.webp",
         description: "Croissant italiano"
     },
     { 
@@ -292,7 +292,7 @@ const menuItems = [
         name: "Gelato", 
         category: "postres", 
         price: "$45", 
-        image: "/img/Gelato.jpg",
+        image: "/Gelato.jpg",
         description: "Helado artesanal cremoso y denso (Vainilla, Bacio, Limón, Frambuesa, Cioccolato, Caffe, Ferrero, Tiramisu, Galleta)."
     },
     { 
@@ -300,7 +300,7 @@ const menuItems = [
         name: "Lemon Frittelle", 
         category: "postres", 
         price: "$95", 
-        image: "/img/Lemon Frittelle.jpg",
+        image: "/Lemon Frittelle.jpg",
         description: "Buñuelos de limón espolvoreados con azúcar."
     },
     { 
@@ -308,7 +308,7 @@ const menuItems = [
         name: "Pandoro", 
         category: "postres", 
         price: "$175", 
-        image: "/img/Pandoro.webp",
+        image: "/Pandoro.webp",
         description: "Bizcocho alto y esponjoso típico de Navidad (Solo en temporada)."
     },
     { 
@@ -316,7 +316,7 @@ const menuItems = [
         name: "Panettone", 
         category: "postres", 
         price: "$85", 
-        image: "/img/Panettone.jpg",
+        image: "/Panettone.jpg",
         description: "Pan dulce con pasas y frutas confitadas (Solo en temporada)."
     },
     { 
@@ -324,7 +324,7 @@ const menuItems = [
         name: "Panna Cotta", 
         category: "postres", 
         price: "$65", 
-        image: "/img/Panna Cotta.jpg",
+        image: "/Panna Cotta.jpg",
         description: "Postre cremoso de nata con gelatina."
     },
     { 
@@ -332,7 +332,7 @@ const menuItems = [
         name: "Sfogliatelle", 
         category: "postres", 
         price: "$55", 
-        image: "/img/Sfogliatelle.jpg",
+        image: "/Sfogliatelle.jpg",
         description: "Hojaldre en capas relleno de ricotta o crema."
     },
     { 
@@ -340,7 +340,7 @@ const menuItems = [
         name: "Tiramisu", 
         category: "postres", 
         price: "$95", 
-        image: "/img/Tiramisu.webp",
+        image: "/Tiramisu.webp",
         description: "Capas de bizcocho con café, mascarpone y cacao."
     },
     { 
@@ -348,7 +348,7 @@ const menuItems = [
         name: "Torta della Nonna", 
         category: "postres", 
         price: "$95", 
-        image: "/img/Torta della Nonna.jpg",
+        image: "/Torta della Nonna.jpg",
         description: "Tarta de crema pastelera con piñones."
     },
     { 
@@ -356,7 +356,7 @@ const menuItems = [
         name: "Tortino al cioccolato", 
         category: "postres", 
         price: "$115", 
-        image: "/img/Tortino al ciocccolato.jpg",
+        image: "/Tortino al ciocccolato.jpg",
         description: "Pastelito de chocolate con centro líquido."
     },
     { 
@@ -364,7 +364,7 @@ const menuItems = [
         name: "Zuppa inglese", 
         category: "postres", 
         price: "$100", 
-        image: "/img/Zuppa inglese.jpg",
+        image: "/Zuppa inglese.jpg",
         description: "Postre de capas con bizcocho, crema y licor."
     },
     { 
@@ -372,7 +372,7 @@ const menuItems = [
         name: "Affogato", 
         category: "bebidas", 
         price: "$145", 
-        image: "/img/Affogato.jpg",
+        image: "/Affogato.jpg",
         description: "Helado de vainilla con un espresso caliente encima."
     },
     { 
@@ -380,7 +380,7 @@ const menuItems = [
         name: "Aperol", 
         category: "bebidas", 
         price: "$215", 
-        image: "/img/Aperol.webp",
+        image: "/Aperol.webp",
         description: "Licor de naranja amarga y hierbas, base del Aperol Spritz."
     },
     { 
@@ -388,7 +388,7 @@ const menuItems = [
         name: "Bombardino", 
         category: "bebidas", 
         price: "$150", 
-        image: "/img/Bombardino.webp",
+        image: "/Bombardino.webp",
         description: "Licor caliente con huevo y brandy."
     },
     { 
@@ -396,7 +396,7 @@ const menuItems = [
         name: "Campari", 
         category: "bebidas", 
         price: "$175", 
-        image: "/img/Campari.jpg",
+        image: "/Campari.jpg",
         description: "Amargo rojo a base de hierbas y frutas."
     },
     { 
@@ -404,7 +404,7 @@ const menuItems = [
         name: "Espresso", 
         category: "bebidas", 
         price: "$65", 
-        image: "/img/Espresso.webp",
+        image: "/Espresso.webp",
         description: "Café fuerte en pequeña taza."
     },
     { 
@@ -412,7 +412,7 @@ const menuItems = [
         name: "Hugo Spritz", 
         category: "bebidas", 
         price: "$195", 
-        image: "/img/Hugo Spritz.jpeg",
+        image: "/Hugo Spritz.jpeg",
         description: "Coctel con prosecco, flor de saúco y menta."
     },
     { 
@@ -420,7 +420,7 @@ const menuItems = [
         name: "Italicus Spritz", 
         category: "bebidas", 
         price: "$235", 
-        image: "/img/Italicus Spritz.jpg",
+        image: "/Italicus Spritz.jpg",
         description: "Aperitivo cítrico y floral con prosecco."
     },
     { 
@@ -428,7 +428,7 @@ const menuItems = [
         name: "Macchiato", 
         category: "bebidas", 
         price: "$65", 
-        image: "/img/Macchiato.webp",
+        image: "/Macchiato.webp",
         description: "Espresso con un toque de espuma de leche."
     },
     { 
@@ -436,7 +436,7 @@ const menuItems = [
         name: "Milano Torino", 
         category: "bebidas", 
         price: "$180", 
-        image: "/img/Milano Torino.jpg",
+        image: "/Milano Torino.jpg",
         description: "Aperitivo con Campari y vermut."
     },
     { 
@@ -444,7 +444,7 @@ const menuItems = [
         name: "Mirto Spritz", 
         category: "bebidas", 
         price: "$215", 
-        image: "/img/Mirto Spritz.jpeg",
+        image: "/Mirto Spritz.jpeg",
         description: "Variante con licor de mirto y prosecco."
     },
     { 
@@ -452,7 +452,7 @@ const menuItems = [
         name: "Peach Bellini", 
         category: "bebidas", 
         price: "$165", 
-        image: "/img/Peach Bellini.webp",
+        image: "/Peach Bellini.webp",
         description: "Prosecco con puré de durazno."
     },
     { 
@@ -460,7 +460,7 @@ const menuItems = [
         name: "Sgroppino", 
         category: "bebidas", 
         price: "$200", 
-        image: "/img/Sgroppino.webp",
+        image: "/Sgroppino.webp",
         description: "Cóctel cremoso con vodka, prosecco y sorbete."
     },
 ];
