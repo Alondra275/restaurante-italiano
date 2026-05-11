@@ -58,6 +58,7 @@ body {
 .hero {
     height: 100vh;
     max-height: 800px;
+    /* Eliminamos el ../ y usamos el nombre exacto que aparece en tu GitHub */
     background: url('Pasta.jpg.jpg') no-repeat center center/cover;  
     display: flex;
     align-items: center;
