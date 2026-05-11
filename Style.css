@@ -56,15 +56,14 @@ body {
 
 /* HERO SECTION */
 .hero {
-    height: 100vh; /* Ocupa toda la altura de la ventana */
-    /* Aquí se pone el enlace a la imagen que va debajo del encabezado */
-    max-height: 800px; /* limita altura máxima */
-    background: url('../Pasta.jpg.jpg') no-repeat center center/cover;  
+    height: 100vh;
+    max-height: 800px;
+    background: url('Pasta.jpg.jpg') no-repeat center center/cover;  
     display: flex;
     align-items: center;
     justify-content: center;
     text-align: center;
-    padding-top: 230px; /* Aquí puedo recorrer la posición del título hacia arriba o abajo */
+    padding-top: 230px;
 }
 
 .hero-content h2 { /* Se modifica el tamaño de la fuente */
