@@ -108,7 +108,7 @@ const menuItems = [
         name: "Grissini", 
         category: "entradas", 
         price: "$45", 
-        image: "Grissini.WEBP",
+        image: "Grissini.webp",
         description: "Palitos de pan crujientes acompañados de un aderezo."
     },
     { 
@@ -116,7 +116,7 @@ const menuItems = [
         name: "Pane ca'meusa", 
         category: "entradas", 
         price: "$65", 
-        image: "Pane ca´meusa.WEBP",
+        image: "Pane ca´meusa.webp",
         description: "Bocadillo siciliano de pan con bazo de res."
     },
     { 
@@ -348,7 +348,7 @@ const menuItems = [
         name: "Torta della Nonna", 
         category: "postres", 
         price: "$95", 
-        image: "Torta della Nonna.jpg",
+        image: "Torta della Nonna.JPG",
         description: "Tarta de crema pastelera con piñones."
     },
     { 
@@ -444,7 +444,7 @@ const menuItems = [
         name: "Mirto Spritz", 
         category: "bebidas", 
         price: "$215", 
-        image: "Mirto Spritz.jpeg",
+        image: "Mirto spritz.jpeg",
         description: "Variante con licor de mirto y prosecco."
     },
     { 
